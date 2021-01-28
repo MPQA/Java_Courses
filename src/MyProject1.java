@@ -193,11 +193,12 @@ public class MyProject1 {
         }
 
 
-
-
-
-
-
+        {
+            System.out.println(line);
+            String s = "suka suck my dick triple-double";
+            System.out.println(s);
+            System.out.println(line);
+        }
 
 
 
