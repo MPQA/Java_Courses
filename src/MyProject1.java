@@ -178,7 +178,12 @@ public class MyProject1 {
             }
         }
 
-
+        {
+            System.out.println(line);
+            String s = "suka suck my dick";
+            System.out.println(s);
+            System.out.println(line);
+        }
 
 
 
